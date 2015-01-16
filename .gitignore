@@ -1,0 +1,6 @@
+_site
+.jekyll
+.bundle
+.sass-cache
+node_modules
+package.json
